@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "boomer"]
+	path = boomer
+	url = https://github.com/moodymudskipper/boomer
+	shallow = true
+	registered = true
+[submodule "flow"]
+	path = flow
+	url = https://github.com/moodymudskipper/flow
+	shallow = true
+	registered = true
+[submodule "inops"]
+	path = inops
+	url = https://github.com/moodymudskipper/inops
+	shallow = true
+	registered = true
+[submodule "powerjoin"]
+	path = powerjoin
+	url = https://github.com/moodymudskipper/powerjoin
+	shallow = true
+	registered = true
+[submodule "typed"]
+	path = typed
+	url = https://github.com/moodymudskipper/typed
+	shallow = true
+	registered = true

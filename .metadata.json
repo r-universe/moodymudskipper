@@ -1,0 +1,22 @@
+[
+  {
+    "package": "boomer",
+    "oncran": true
+  },
+  {
+    "package": "flow",
+    "oncran": true
+  },
+  {
+    "package": "inops",
+    "oncran": true
+  },
+  {
+    "package": "powerjoin",
+    "oncran": true
+  },
+  {
+    "package": "typed",
+    "oncran": true
+  }
+]
