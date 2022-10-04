@@ -4,15 +4,7 @@
     "oncran": true
   },
   {
-    "package": "flow",
-    "oncran": true
-  },
-  {
     "package": "inops",
-    "oncran": true
-  },
-  {
-    "package": "powerjoin",
     "oncran": true
   },
   {
