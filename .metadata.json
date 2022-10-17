@@ -1,9 +1,5 @@
 [
   {
-    "package": "boomer",
-    "oncran": true
-  },
-  {
     "package": "inops",
     "oncran": true
   },
