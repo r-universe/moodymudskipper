@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "powerjoin",
+    "oncran": true
+  },
+  {
     "package": "typed",
     "oncran": true
   }

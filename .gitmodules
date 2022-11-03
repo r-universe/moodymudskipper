@@ -8,6 +8,11 @@
 	url = https://github.com/moodymudskipper/inops
 	shallow = true
 	registered = true
+[submodule "powerjoin"]
+	path = powerjoin
+	url = https://github.com/moodymudskipper/powerjoin
+	shallow = true
+	registered = true
 [submodule "typed"]
 	path = typed
 	url = https://github.com/moodymudskipper/typed
