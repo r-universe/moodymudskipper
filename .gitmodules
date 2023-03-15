@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "doubt"]
+	path = doubt
+	url = https://github.com/moodymudskipper/doubt
+	shallow = true
+	registered = true
 [submodule "inops"]
 	path = inops
 	url = https://github.com/moodymudskipper/inops
@@ -16,5 +21,10 @@
 [submodule "typed"]
 	path = typed
 	url = https://github.com/moodymudskipper/typed
+	shallow = true
+	registered = true
+[submodule "unglue"]
+	path = unglue
+	url = https://github.com/moodymudskipper/unglue
 	shallow = true
 	registered = true

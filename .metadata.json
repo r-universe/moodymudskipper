@@ -1,5 +1,9 @@
 [
   {
+    "package": "doubt",
+    "oncran": true
+  },
+  {
     "package": "inops",
     "oncran": true
   },
@@ -9,6 +13,10 @@
   },
   {
     "package": "typed",
+    "oncran": true
+  },
+  {
+    "package": "unglue",
     "oncran": true
   }
 ]
