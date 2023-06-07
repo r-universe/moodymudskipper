@@ -8,6 +8,11 @@
 	url = https://github.com/moodymudskipper/doubt
 	shallow = true
 	registered = true
+[submodule "flow"]
+	path = flow
+	url = https://github.com/moodymudskipper/flow
+	shallow = true
+	registered = true
 [submodule "inops"]
 	path = inops
 	url = https://github.com/moodymudskipper/inops
